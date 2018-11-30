@@ -15,6 +15,7 @@ class Menu extends Component {
                             <li><Link to="/">Home</Link></li>
                             <li><Link to="/contacts">Contacts</Link></li>
                             <li><Link to="/about">About</Link></li>
+                            <p>ciao</p>
                         </ul>
                     </nav>
                 </div>
